@@ -39,6 +39,10 @@ system. You can install the library using the following command:
 go get github.com/erikjuhani/go-fp
 ```
 
+## Concepts
+
+- [Pipe](/pipe/README.md)
+
 ## Inspiration
 
 Here's a list of existing libraries that provide functional concepts for Go
