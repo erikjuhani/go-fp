@@ -42,6 +42,7 @@ go get github.com/erikjuhani/go-fp
 ## Concepts
 
 - [Pipe](/pipe/README.md)
+- [Maybe](/maybe/README.md)
 
 ## Inspiration
 
