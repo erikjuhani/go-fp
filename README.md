@@ -44,6 +44,7 @@ go get github.com/erikjuhani/go-fp
 - [Pipe](/pipe/README.md)
 - [Maybe](/maybe/README.md)
 - [Result](/result/README.md)
+- [State](/state/README.md)
 
 ## Inspiration
 
